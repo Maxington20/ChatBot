@@ -1,5 +1,4 @@
-*.pdf
-*.txt
 index.json
 credentials.py
+docs/
 ```
